@@ -49,3 +49,7 @@ C# for managing lab equipment related to embedded kits
 ![Hackerrank C# Certificate](https://user-images.githubusercontent.com/78849761/112262421-a1f1ed80-8c93-11eb-95a3-0a278b78c012.png)
 
 
+![Hackerrank SQL Certificate](https://user-images.githubusercontent.com/78849761/114318645-94f64a80-9b2b-11eb-9a0d-b6bd7a887fcf.png)
+
+
+
